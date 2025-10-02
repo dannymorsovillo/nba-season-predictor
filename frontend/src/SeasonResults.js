@@ -33,9 +33,6 @@ const SeasonResults = () => {
                 <th>Team</th>
                 <th>Wins</th>
                 <th>Losses</th>
-                <th>Points</th>
-                <th>Rebounds</th>
-                <th>Assists</th>
                 <th>Seeding</th>
               </tr>
             </thead>
